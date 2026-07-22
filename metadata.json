@@ -1,0 +1,6 @@
+{
+  "name": "IT Mock Exam Practice",
+  "description": "Interactive IT mock exam for Python, Networking CCNA, Cloud Computing, Databases SQL, Linux, Windows, Security, and RAID with local progress tracking and full answer review.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
